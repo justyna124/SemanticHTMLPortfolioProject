@@ -2,7 +2,7 @@
 
 Welcome to the Semantic HTML Portfolio Project! For this project, we'll be converting a portfolio created using basic HTML tags (`div`, `span`, etc) to use HTML 5's more semantic tags.
 
-Please follow the instructions below to complete the project. Be sure to run tests to make sure your tests are passing before submitting your code.
+Plea1se follow the instructions below to complete the project. Be sure to run tests to make sure your tests are passing before submitting your code.
 
 ## What You'll Build
 
